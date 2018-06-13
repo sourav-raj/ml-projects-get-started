@@ -1,0 +1,3 @@
+Predict the sale price of houses
+As outcome will be continuous in nature. It will be a regression problem
+Also since we know the what will be the outcomes it will be a supervised learning problem
