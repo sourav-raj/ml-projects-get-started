@@ -1,0 +1,4 @@
+Predict the survial
+
+As the outcome will be discrete in nature. It will be a classification problem
+Also since we know the what will be the outcomes it will be a supervised learning problem
